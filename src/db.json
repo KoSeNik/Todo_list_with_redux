@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "title": "сделать домашку",
+      "completed": "true",
+      "id": "dXnc23u"
+    },
+    {
+      "title": "научился делать пользовательские хуки",
+      "completed": "true",
+      "id": "OMiaTD_"
+    },
+    {
+      "title": "я изучаю redux",
+      "completed": "true",
+      "id": "7dR8-YJ"
+    },
+    {
+      "title": "сделать упражнения планки",
+      "completed": "true",
+      "id": "0wvLPMz"
+    },
+    {
+      "title": "прогуляться, подышать воздухом",
+      "completed": "true",
+      "id": "YTt3v6Y"
+    },
+    {
+      "title": "важное дело",
+      "completed": "true",
+      "id": "Yuh8z4q"
+    },
+    {
+      "title": "новое дело",
+      "completed": "false",
+      "id": "e03q9Pp"
+    }
+  ]
+}
